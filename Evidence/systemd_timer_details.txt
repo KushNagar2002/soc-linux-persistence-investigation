@@ -1,0 +1,8 @@
+UNIT: update.timer
+ACTIVATES: update.service
+STATE: enabled
+TRIGGER: every 60 seconds
+
+SERVICE:
+ExecStart=/usr/bin/python3 /tmp/update.py
+User=root
