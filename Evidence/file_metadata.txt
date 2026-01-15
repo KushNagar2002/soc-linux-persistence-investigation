@@ -1,0 +1,6 @@
+Path: /tmp/update.py
+Owner: root
+Permissions: -rwxr-xr-x
+Location: /tmp
+ctime: updated every 60 seconds
+mtime: updated slightly before ctime
